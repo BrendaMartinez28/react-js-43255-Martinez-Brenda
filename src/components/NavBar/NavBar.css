@@ -5,8 +5,14 @@ header{
     border-bottom: 1px solid blueviolet;
 }
 
-li{
+.navbar{
     display: inline-block;
     margin: 1rem;
     cursor: pointer;
+}
+
+.Categories {
+display:inline-block;
+align-items: center;
+
 }

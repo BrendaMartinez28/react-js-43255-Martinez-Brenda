@@ -21,4 +21,4 @@ const Categorias = () => {
   )
 }
 
-export default Categorias
+export default Categorias 
